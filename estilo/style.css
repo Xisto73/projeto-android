@@ -186,13 +186,16 @@ aside > ul {
 
 footer {
     background-color: var(--cor05);
-    font-family: var(--fonte-padrao);
     color: white;
+    font-family: var(--fonte-padrao);
     text-align: center;
     padding: 10px;
 }
 
-footer > a {
+.github {
     color: white;
-    text-decoration: none;
+}  
+
+.cursoemvideo {
+    color: white;
 }
